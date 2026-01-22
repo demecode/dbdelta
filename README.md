@@ -1,4 +1,4 @@
-# New Pipeline 2026-01-06 17:24
+# Db delta
 
 This folder defines all source code for the 'New Pipeline 2026-01-06 17:24' pipeline:
 
